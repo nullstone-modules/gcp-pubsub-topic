@@ -1,0 +1,14 @@
+org_name: nullstone
+name: gcp-pubsub-topic
+friendly_name: Pub/Sub Topic
+description: Creates a Pub/Sub Topic for use as a message queue
+category: datastore
+subcategory: ""
+provider_types:
+    - gcp
+platform: pubsub
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
+tool_name: terraform
